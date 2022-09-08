@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">メニュー注文アプリ</string>
+    <string name="tv_main_menu_unit">円</string>
+    <string name="main_menu_list_options_teishoku">定食</string>
+    <string name="main_menu_list_options_curry">カレー</string>
+    <string name="main_menu_list_context_desc">説明を表示</string>
+    <string name="main_menu_list_context_order">ご注文</string>
+    <string name="main_menu_list_context_header">操作を選んでください。</string>
+    <string name="tv_thx_title">注文完了</string>
+    <string name="tv_thx_desc">以下のメニューのご注文を受け付けました。\n合計が以下となります。\nご注文ありがとうございました。</string>
+    <string name="bn_inset">料理追加</string>
+    <string name="bn_order">注文</string>
+</resources>
